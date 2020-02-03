@@ -2,7 +2,6 @@
 dependency1.from=Circle
 dependency1.to=Canvas
 dependency1.type=UsesDependency
-dependency2.to=Canvas
 dependency2.from=Picture
 dependency2.to=Square
 dependency2.type=UsesDependency
